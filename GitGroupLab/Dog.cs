@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace GitGroupLab
 {
-    internal class Dog
+    public class Dog : Pet
     {
+        public Dog()
+        {
+
+        }
+        public override void MakeHappyNoise()
+        {
+            Console.WriteLine("Bork BOrk!");
+        }
     }
+
+
 }
