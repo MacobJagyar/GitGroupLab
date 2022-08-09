@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using GitGroupLab;
+
+Sloth seymour = new Sloth();
+
+seymour.MakeHappyNoise();
