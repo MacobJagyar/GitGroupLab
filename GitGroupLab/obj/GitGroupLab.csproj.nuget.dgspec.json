@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jake\\source\\repos\\GitGroupLab\\GitGroupLab\\GitGroupLab.csproj": {}
+    "C:\\Users\\Pttrs\\Desktop\\Projects\\GitGroupLab\\GitGroupLab\\GitGroupLab\\GitGroupLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jake\\source\\repos\\GitGroupLab\\GitGroupLab\\GitGroupLab.csproj": {
+    "C:\\Users\\Pttrs\\Desktop\\Projects\\GitGroupLab\\GitGroupLab\\GitGroupLab\\GitGroupLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\source\\repos\\GitGroupLab\\GitGroupLab\\GitGroupLab.csproj",
+        "projectUniqueName": "C:\\Users\\Pttrs\\Desktop\\Projects\\GitGroupLab\\GitGroupLab\\GitGroupLab\\GitGroupLab.csproj",
         "projectName": "GitGroupLab",
-        "projectPath": "C:\\Users\\Jake\\source\\repos\\GitGroupLab\\GitGroupLab\\GitGroupLab.csproj",
-        "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\source\\repos\\GitGroupLab\\GitGroupLab\\obj\\",
+        "projectPath": "C:\\Users\\Pttrs\\Desktop\\Projects\\GitGroupLab\\GitGroupLab\\GitGroupLab\\GitGroupLab.csproj",
+        "packagesPath": "C:\\Users\\Pttrs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pttrs\\Desktop\\Projects\\GitGroupLab\\GitGroupLab\\GitGroupLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pttrs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
