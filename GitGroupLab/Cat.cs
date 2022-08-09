@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitGroupLab
 {
-    internal class Cat
+    internal class Cat : Pet
     {
+        
     }
 }

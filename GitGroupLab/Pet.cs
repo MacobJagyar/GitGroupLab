@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace GitGroupLab
 {
-    internal abstract class Pet
+    public abstract class Pet
     {
         public string Name { get; set; }
+        public string NumOfWhiskers { get; set; }
         public virtual void MakeHappyNoise()
         {
-            Console.WriteLine("caw caw!");
+            Console.WriteLine("mew mew!");
         }
     }
 }
